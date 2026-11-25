@@ -1,4 +1,4 @@
-#Folha 10
+#Problema 4
 
 """
  Implemente uma função encontra que recebe um iterável (de um dos tipos
@@ -7,7 +7,6 @@ que se encontra o elemento. Caso o elemento não exista, deve ser lançada a
 exceção KeyError com uma mensagem de texto adequada.
 """
 
-#Problema 4
 
 def encontra(iteravel, elemento):
     """
